@@ -1,0 +1,9 @@
+{
+  "title": "Treasure Island",
+  "author": "Robert Louis Stevenson",
+  "description": "The quintessential pirate adventure, following young Jim Hawkins as he boards the Hispaniola in search of Captain Flint's buried gold, facing off against the iconic, duplicitous Long John Silver.",
+  "coverImage": "linear-gradient(135deg, #004d40 0%, #00796b 100%)",
+  "difficulty": "Medium",
+  "year": 1883,
+  "tags": ["Adventure", "Pirates", "Classic", "Sea"]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "description": "The timeless comedy of manners, follow the lively Elizabeth Bennet as she navigates class, gossip, marriage, and her complex impressions of the wealthy, reserved Mr. Darcy in Regency-era England.",
+  "coverImage": "linear-gradient(135deg, #efebe9 0%, #d7ccc8 100%)",
+  "difficulty": "Medium",
+  "year": 1813,
+  "tags": ["Classic", "Romance", "Society", "Regency"]
+}

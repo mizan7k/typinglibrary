@@ -1,0 +1,6 @@
+{
+  "name": "Typing Library",
+  "description": "Read timeless public domain books while improving your typing speed, accuracy, and endurance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

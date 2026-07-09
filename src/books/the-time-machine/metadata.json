@@ -1,0 +1,9 @@
+{
+  "title": "The Time Machine",
+  "author": "H. G. Wells",
+  "description": "An inventor constructs a machine that carries him far into the future, where he discovers two distinct and warring human species: the gentle, surface-dwelling Eloi and the monstrous, subterranean Morlocks.",
+  "coverImage": "linear-gradient(135deg, #263238 0%, #1a237e 100%)",
+  "difficulty": "Medium",
+  "year": 1895,
+  "tags": ["Sci-Fi", "Adventure", "Futuristic", "Classic"]
+}

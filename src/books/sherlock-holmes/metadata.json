@@ -1,0 +1,9 @@
+{
+  "title": "The Adventures of Sherlock Holmes",
+  "author": "Arthur Conan Doyle",
+  "description": "Follow the legendary consulting detective Sherlock Holmes and his loyal friend Dr. John Watson as they solve some of London's most baffling mysteries using keen observation and deductive reasoning.",
+  "coverImage": "linear-gradient(135deg, #cfd8dc 0%, #90a4ae 100%)",
+  "difficulty": "Hard",
+  "year": 1892,
+  "tags": ["Mystery", "Detective", "Classic", "London"]
+}
